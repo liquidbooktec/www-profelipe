@@ -47,7 +47,14 @@
     ],
     "uniqCompNum": 19,
     "versionPublish": "4.9.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/avatar-3-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "witsec-language": "pt",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
