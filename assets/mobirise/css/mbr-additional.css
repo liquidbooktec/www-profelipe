@@ -1793,8 +1793,17 @@ body {
 .cid-rkIlvTAUdw .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rkHtrMzEoc {
-  background-image: url("../../../assets/images/fundo-2000x1333.jpg");
+.cid-rm8kNUs6rY {
+  background: #232323;
+}
+.cid-rm8kNUs6rY .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rm8kNUs6rY .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rlmwnCF5m9 {
   padding-top: 120px;
