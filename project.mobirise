@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Prof. Felipe Pereira",
-    "currentPage": "page1.html",
+    "currentPage": "obrigado.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -730,7 +730,7 @@
         }
       ]
     },
-    "page1.html": {
+    "obrigado.html": {
       "settings": {
         "meta_descr": "Vocês está cadastrado na Semana Redação ENEM 2019",
         "title": "Obrigado",
