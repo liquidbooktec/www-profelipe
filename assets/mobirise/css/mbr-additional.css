@@ -1405,43 +1405,20 @@ body {
     width: 100% !important;
   }
 }
-.cid-rlmwnCF5m9 {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #ff3366;
+.cid-rmucJ1Iwwx {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-rlmwnCF5m9 .form-control,
-.cid-rlmwnCF5m9 .form-control:focus {
-  background: #ffffff;
-  border: 1px solid #ffc809;
+.cid-rmucJ1Iwwx P {
+  color: #767676;
 }
-.cid-rlmwnCF5m9 .form-container {
-  transition: all .2s;
-  border: 1px solid #ffc809;
-  padding: 1rem;
+.cid-rmucJ1Iwwx H1 {
+  color: #ffc809;
 }
-.cid-rlmwnCF5m9 textarea.form-control {
-  min-height: 188px;
-}
-.cid-rlmwnCF5m9 .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rlmwnCF5m9 .row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 768px) {
-  .cid-rlmwnCF5m9 .row .content-container {
-    padding-left: 5rem;
-  }
-}
-.cid-rlmwnCF5m9 .mbr-text,
-.cid-rlmwnCF5m9 .mbr-section-btn {
-  text-align: left;
-}
-.cid-rlmwnCF5m9 H1 {
-  text-align: left;
+.cid-rmucJ1Iwwx .mbr-text,
+.cid-rmucJ1Iwwx .mbr-section-btn {
+  color: #465052;
 }
 .cid-rlPSHv1v5x {
   padding-top: 90px;
@@ -1663,39 +1640,20 @@ body {
     height: auto !important;
   }
 }
-.cid-rlmwXZFeJW {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #ff3366;
+.cid-rmuF9xKnI4 {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-rlmwXZFeJW .form-control,
-.cid-rlmwXZFeJW .form-control:focus {
-  background: #ffffff;
-  border: 1px solid #ffc809;
+.cid-rmuF9xKnI4 P {
+  color: #767676;
 }
-.cid-rlmwXZFeJW .form-container {
-  transition: all .2s;
-  border: 1px solid #ffc809;
-  padding: 1rem;
+.cid-rmuF9xKnI4 H1 {
+  color: #ffc809;
 }
-.cid-rlmwXZFeJW textarea.form-control {
-  min-height: 188px;
-}
-.cid-rlmwXZFeJW .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-rlmwXZFeJW .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-rlmwXZFeJW .mbr-text,
-.cid-rlmwXZFeJW .mbr-section-btn {
-  text-align: left;
-}
-.cid-rlmwXZFeJW H1 {
-  text-align: left;
+.cid-rmuF9xKnI4 .mbr-text,
+.cid-rmuF9xKnI4 .mbr-section-btn {
+  color: #465052;
 }
 #instagram-feed-block-a .inst__title {
   color: #ffc809;
