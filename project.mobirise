@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Prof. Felipe Pereira",
-    "currentPage": "index.html",
+    "currentPage": "cadastro.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1350,7 +1350,7 @@
         }
       ]
     },
-    "cadastro-realizado.html": {
+    "cadastro.html": {
       "settings": {
         "meta_descr": "Obrigado! Você está inscrito.",
         "title": "Cadastro Realizado",
